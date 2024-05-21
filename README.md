@@ -2,13 +2,13 @@
 
 自动破解Sublime Text4 License限制
 
-<center>![](./start.png)</center>
+![](./start.png)
 
-<center>![](./end.png)</center>
+![](./end.png)
 
-<center>![](./mac_start.png)</center>
+![](./mac_start.png)
 
-<center>![](./mac_end.png)</center>
+![](./mac_end.png)
 
 
 + Windows:[点击下载](https://github.com/TaceyWong/SublimeTextCracker/releases/download/0.1.0/SublimeTextCracker.exe)
