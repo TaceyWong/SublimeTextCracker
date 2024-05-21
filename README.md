@@ -1,8 +1,11 @@
 # Sublime Text Cracker
 
+自动破解Sublime Text4 License限制
+
 ![](./start.png)![](./end.png)
 
-自动破解Sublime Text4 License限制
+![](./mac_start.png)![](./mac_end.png)
+
 
 + Windows:[点击下载](https://github.com/TaceyWong/SublimeTextCracker/releases/download/0.1.0/SublimeTextCracker.exe)
 
